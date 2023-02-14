@@ -1,0 +1,19 @@
+h1{
+    color: rgb(125, 21, 223);
+    font: bold;
+}
+p{
+    color: rgb(76, 13, 135);
+}
+dt{
+    
+    font: bolder;
+    color:rgb(125, 21, 223);
+}
+dd{
+    color: rgb(76, 13, 135);
+}
+
+h2{
+    color:rgb(125, 21, 223);
+}
